@@ -9,8 +9,6 @@ I'm a passionate Computer Science student and aspiring Software Engineer with a 
 
 - 🎯 **Goal**: To build innovative solutions with code and contribute to open-source projects that can impact the world.
 
-- 👥 **Community**: I'm actively engaged in the **ICP-Ghana** community, where I recently worked on a student grading system mini-project after a workshop session.
-
 ### 🚀 Projects
 Here are a few projects I've worked on:
 
