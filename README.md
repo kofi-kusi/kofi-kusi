@@ -29,9 +29,9 @@ Here are a few projects I've worked on:
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
 
 ### 🔗 Let's Connect
-- **Email**: [YourEmail@example.com](mailto:appaukusi05@gmail.com)
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/whoiskusi)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/whoiskusi)
+- **Email**: [appaukusi05@gmail.com](mailto:appaukusi05@gmail.com)
+- **LinkedIn**: [linkedin.com/in/whoiskusi](https://linkedin.com/in/whoiskusi)
+- **Twitter**: [@whoiskusi](https://twitter.com/whoiskusi)
 
 Thanks for stopping by! I’m always open to connecting with fellow developers and sharing knowledge. Feel free to reach out if you'd like to collaborate!
 
