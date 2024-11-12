@@ -5,7 +5,7 @@ I'm a passionate Computer Science student and aspiring Software Engineer with a 
 
 - 🌱 **Currently Learning**:  
   - Full-Stack Development with **The Odin Project**
-  - **Web3** Development with a hands-on bootcamp
+  - **Web3** Development with a hands-on bootcamp ([HackerBoost](https://www.hackerboost.org/))
 
 - 🎯 **Goal**: To build innovative solutions with code and contribute to open-source projects that can impact the world.
 
