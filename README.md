@@ -28,7 +28,7 @@ Here are a few projects I've worked on:
 
 ### 🔗 Let's Connect
 - **Email**: [appaukusi05@gmail.com](mailto:appaukusi05@gmail.com)
-- **LinkedIn**: [linkedin.com/in/whoiskusi](https://linkedin.com/in/whoiskusi)
+- **LinkedIn**: [in/whoiskusi](https://linkedin.com/in/whoiskusi)
 - **Twitter**: [@whoiskusi](https://twitter.com/whoiskusi)
 
 Thanks for stopping by! I’m always open to connecting with fellow developers and sharing knowledge. Feel free to reach out if you'd like to collaborate!
