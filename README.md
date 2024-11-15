@@ -41,6 +41,8 @@ Here are a few projects I've worked on:
 <a href="https://twitter.com/whoiskusi"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100"></a>
 <a href="https://wa.me/233593696136"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"></a>
 
+[![An image of @whoiskusi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whoiskusi)](https://holopin.io/@whoiskusi)
+
 - **Email**: [appaukusi05@gmail.com](mailto:appaukusi05@gmail.com)
 
 Thanks for stopping by! I’m always open to connecting with fellow developers and sharing knowledge. Feel free to reach out if you'd like to collaborate!
