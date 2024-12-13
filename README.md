@@ -5,7 +5,8 @@
 ### 👨‍💻 About Me
 I'm a passionate Computer Science student and aspiring Software Engineer with a knack for web development, blockchain technology, and problem-solving. Currently, I'm deepening my knowledge in full-stack development through **The Odin Project** and exploring **Web3** technologies through a bootcamp. I love building projects that challenge me and expand my technical skill set.
 
-- 🌱 **Currently Learning**:  
+- 🌱 **Currently Learning**:
+  - DSA | python
   - Full-Stack Development with **The Odin Project**
   - **Web3** Development with a hands-on bootcamp ([HackerBoost](https://www.hackerboost.org/))
 
