@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Kofi Kusi Appau
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
 ### 👨‍💻 About Me
 I'm a passionate Computer Science student and aspiring Software Engineer with a knack for web development, blockchain technology, and problem-solving. Currently, I'm deepening my knowledge in full-stack development through **The Odin Project** and exploring **Web3** technologies through a bootcamp. I love building projects that challenge me and expand my technical skill set.
 
@@ -11,14 +9,6 @@ I'm a passionate Computer Science student and aspiring Software Engineer with a 
   - **Web3** Development with a hands-on bootcamp ([HackerBoost](https://www.hackerboost.org/))
 
 - 🎯 **Goal**: To build innovative solutions with code and contribute to open-source projects that can impact the world.
-
-### 🚀 Projects
-Here are a few projects I've worked on:
-
-- **Learning Logs Web App** – A Django web app for tracking learning progress.
-- **JavaScript Calculator** – A calculator app built with vanilla JavaScript.
-- **Landing Page** – A responsive landing page showcasing design fundamentals.
-- **Smart Contract Development** – Experimenting with Solidity in my project workspace ‘MyFirstSmartContract,’ where I created a `SimpleStorage.sol` file with arrays, structs, and enums.
 
 ### 🔧 Tech & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
@@ -44,7 +34,5 @@ Here are a few projects I've worked on:
 
 [![An image of @whoiskusi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whoiskusi)](https://holopin.io/@whoiskusi)
 
-- **Email**: [appaukusi05@gmail.com](mailto:appaukusi05@gmail.com)
-
-Thanks for stopping by! I’m always open to connecting with fellow developers and sharing knowledge. Feel free to reach out if you'd like to collaborate!
+Thanks for stopping by! I’m always open to connecting with fellow developers and sharing knowledge.
 
