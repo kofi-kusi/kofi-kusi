@@ -1,12 +1,10 @@
-# Hi there! 👋 I'm Kofi Kusi Appau
-
 ### 👨‍💻 About Me
 I'm a passionate Computer Science student and aspiring Software Engineer with a knack for web development, blockchain technology, and problem-solving. Currently, I'm deepening my knowledge in full-stack development through **The Odin Project** and exploring **Web3** technologies through a bootcamp. I love building projects that challenge me and expand my technical skill set.
 
 - 🌱 **Currently Learning**:
   - DSA with python
   - Full-Stack Development with **The Odin Project**
-  - **Web3** Development with a hands-on bootcamp ([HackerBoost](https://www.hackerboost.org/))
+  - Learning **Web3** [@HackerBoost](https://www.hackerboost.org/)
 
 - 🎯 **Goal**: To build innovative solutions with code and contribute to open-source projects that can impact the world.
 
@@ -27,12 +25,8 @@ I'm a passionate Computer Science student and aspiring Software Engineer with a 
 
 ### 🔗 Let's Connect
 
-<a href="https://linkedin.com/in/whoiskusi"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"><a/> <a href="https://www.youtube.com/@whoiskusi"><img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100"></a>
-<a href="https://discord.com/channels/@whoiskusi"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"></a>
+<a href="https://linkedin.com/in/whoiskusi"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"><a/> 
 <a href="https://twitter.com/whoiskusi"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100"></a>
-<a href="https://wa.me/233593696136"><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"></a>
-
-[![An image of @whoiskusi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whoiskusi)](https://holopin.io/@whoiskusi)
 
 Thanks for stopping by! I’m always open to connecting with fellow developers and sharing knowledge.
 
