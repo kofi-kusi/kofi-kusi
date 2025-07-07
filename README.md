@@ -23,7 +23,7 @@ I'm a passionate student with a keen interest in technology, coding, and continu
 
 ## 📫 How to Reach Me
 
-Feel free to connect or reach out to me here on GitHub! I'm always open to collaboration and new opportunities.
+Feel free to connect or reach out to me on X! I'm always open to collaboration and new opportunities.
 
 ---
 
