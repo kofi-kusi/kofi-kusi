@@ -5,7 +5,7 @@ I'm a passionate student with a keen interest in technology, coding, and continu
 ## 🌱 What I'm Learning
 
 - Programming languages like Python, JavaScript, and more
-- Web development (HTML, CSS, React)
+- Web development
 - Data structures and algorithms
 - Open source collaboration
 
