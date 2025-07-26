@@ -1,32 +1,17 @@
-# 👋 Hi, I'm Kofi Kusi!
+Hey! I'm [@kofi-kusi](https://github.com/kofi-kusi) (**Kofi Kusi Appau**). 👋
 
-I'm a passionate student with a keen interest in technology, coding, and continuous learning. Currently, I'm exploring the world of software development, building my skills in programming and working on exciting projects whenever I get the chance.
+cs @ kstu
 
-## 🌱 What I'm Learning
+I'm interested in full-stack development, AI/ML, and blockchain.
 
-- Programming languages like Python, JavaScript, and more
-- Web development
-- Data structures and algorithms
-- Open source collaboration
+Currently Learning:
+- Backend with FastAPI
+- DSA
 
-## 💡 Goals
+Socials:
+- [LinkedIn](https://www.linkedin.com/in/kofi-kusi)
+- [X](https://www.x.com/_kofi_kusi)
 
-- Master full-stack development
-- Contribute to open source projects
-- Build apps that solve real-world problems
-- Connect with other developers and learn from the community
 
-## 🚀 Fun Facts
 
-- I love tackling new challenges and learning new things.
-- Outside of coding, I enjoy reading, playing games, and exploring new tech.
 
-## 📫 How to Reach Me
-
-Feel free to connect or reach out to me on X! I'm always open to collaboration and new opportunities.
-
----
-
-> "The beautiful thing about learning is that nobody can take it away from you." – B.B. King
-
-Thanks for visiting my profile! 😊
