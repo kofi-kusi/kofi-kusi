@@ -10,7 +10,7 @@ Currently Learning:
 
 Socials:
 - [LinkedIn](https://www.linkedin.com/in/kofi-kusi)
-- [X](https://www.x.com/whoiskusi)
+- [X](https://www.x.com/_kofi_kusi)
 
 
 
